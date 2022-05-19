@@ -3,7 +3,7 @@ SNP_CONFIG = {
     "outerRadius": 1.25,
     "maxGap": 2000000,
     "color": "#222222",
-    "size": 0.6,
+    "size": 0.8,
     "strokeWidth": 0,
 }
 
